@@ -1,0 +1,45 @@
+
+---
+title: "Pre-Activity: A Test Based on Ranking Across More Than Two Groups"
+output: html_document
+---
+
+## Introduction
+
+Fifteen volunteers were asked to memorize 20 words on a "red" list and 20 words on a "green" list. The subjects were then randomly assigned to one of three treatment groups. Group AL received two alcoholic drinks. Group AR received two alcoholic drinks but also obtained a financial incentive for success on the subsequent test. Group PL were told they were being given two alcoholic drinks but in fact were given two non-alcoholic beverages that smelled alcoholic. After consuming their drinks, all the subjects rested for 25 minutes before attempting to recall the words they had seen on each list. Each subject was scored by the difference in percentage of correct responses on the green list and the percentage of incorrect responses on the red list (e.g., a subject that remembered 18/20 words on the green list and 17/20 words on the red list would have a score of 90 - 15 = 75).
+
+## Data
+
+The data are given below:
+
+| AL  | AR  | PL  |
+|-----|-----|-----|
+| 16  | 51  | 58  |
+| 10  | 58  | 12  |
+| 20  | 52  | 62  |
+| 29  | 47  | 43  |
+| -14 | 32  | 26  |
+
+## Questions
+
+1. What do you think was the purpose of this study?
+
+2. What type of study is this?
+   - (a) Experiment
+   - (b) Observational Study
+
+3. This study includes which of the following features:
+   - (a) Blocking
+   - (b) Randomization
+   - (c) A placebo
+   - (d) Balance
+   - (e) Missing values
+
+4. In constructing a hypothesis test based on the data given, what would you choose as the null hypothesis?
+
+5. Of the methods you have met in your introductory course, which would possibly be appropriate for the example here?
+   - (a) Paired t-test
+   - (b) Z-test
+   - (c) Regression
+   - (d) ANOVA
+   - (e) Test for the difference between two proportions

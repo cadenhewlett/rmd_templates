@@ -1,0 +1,27 @@
+
+## Pre-class Activity: A Test Based on Sums of Ranks
+
+Statistics commonly arises in the courtroom during trials. In the US trial Capaci v. Katz and Besthoff Inc. in 1981, the plaintiff claimed that she and other women had been discriminated against in respect to their times to promotion. Tended at the trial were the data below which show times (in months) from hiring to promotion split by gender:
+
+Men: 5 7 12 14 14 14 18 21 22 23 24 25 34 37 47 49 64 67 69 125 192 483  
+Women: 229 453
+
+1. **What method would you use to display the data in a courtroom?**
+
+2. **Discuss with your group the data and the issues. What is the question being posed by the plaintiff with regards to the data?**
+
+3. **In constructing a test for these data what would be your null hypothesis?**
+
+4. **In conducting a hypothesis test here would you take a one-sided or two-sided alternative?**  
+   (a) One-sided  
+   (b) Two-sided  
+   Does it matter whether it is one-sided or two-sided alternative?
+
+### Review question
+
+**(A) There are 10 soccer players. In how many ways can 2 captains be chosen randomly?**  
+   (a) 5  
+   (b) 20  
+   (c) 45  
+   (d) 50  
+   (e) 90  
