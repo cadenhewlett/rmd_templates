@@ -1,0 +1,30 @@
+---
+title: "Pre-Activity: The Power of a Hypothesis Test"
+output: html_document
+---
+
+## Introduction
+
+We define the power of a test to be 1 − $\beta$ where $\beta$ is the probability of committing a Type II error. The power of a test reflects its ability to reject the null hypothesis $H_0$ when the alternative hypothesis holds true.
+
+Parapsychologist D.J. Bem has conducted studies that purport to show that at least some humans have the power of precognition, meaning that future events yet to occur may influence people’s thinking and actions. In one study (Bem, 2011), subjects were asked to guess the future position of an image on a computer screen. There were
+two possibilities: the left or right side of the screen. The position of each image was
+preselected at random.
+
+### Questions
+
+1. What do you think was the purpose of this study?
+
+2. Consider a special case of the study with ten attempts to predict the location of an image. What is the probability distribution of the test statistic T under the null hypothesis?
+
+3. Suppose the null hypothesis is rejected when T ≥ 8. What is the significance level of the test?
+
+### Review Question
+
+Suppose we have a hypothesis test where the significance level is set at 0.05. This means:
+
+(a) We reject the null hypothesis with probability 0.05  
+(b) We fail to reject the null hypothesis with probability 0.05  
+(c) We fail to reject the null hypothesis when it is true with probability 0.05  
+(d) We reject the null hypothesis when it is true with probability 0.05  
+(e) We accept the null hypothesis when it is false with probability 0.05
